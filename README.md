@@ -211,14 +211,11 @@ jobs:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shaikh-muhammad-zain/"><img src="https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=161B22"></a>
-  <a href="https://x.com/[YOUR_X_HANDLE]"><img src="https://img.shields.io/badge/X-F8BBD0?style=for-the-badge&logo=x&logoColor=161B22"></a>
-  <a href="https://instagram.com/[YOUR_INSTAGRAM_HANDLE]"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=161B22"></a>
+  <a href="https://x.com/_smzxboii_"><img src="https://img.shields.io/badge/X-F8BBD0?style=for-the-badge&logo=x&logoColor=161B22"></a>
+  <a href="https://www.instagram.com/__smzxboii__/"><img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=161B22"></a>
+  <a href="mailto:smzain20042004@gmail.com"><img src="https://img.shields.io/badge/Email-EF93C4?style=for-the-badge&logo=gmail&logoColor=161B22"></a>
 </p>
-<p align="center">
-  <a href="https://tiktok.com/@[YOUR_TIKTOK_HANDLE]"><img src="https://img.shields.io/badge/TikTok-EF93C4?style=for-the-badge&logo=tiktok&logoColor=161B22"></a>
-  <a href="https://youtube.com/@[YOUR_YOUTUBE_HANDLE]"><img src="https://img.shields.io/badge/YouTube-F8BBD0?style=for-the-badge&logo=youtube&logoColor=161B22"></a>
-  <a href="mailto:smzain20042004@gmail.com"><img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=161B22"></a>
-</p>
+
 
 <br>
 
