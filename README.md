@@ -216,7 +216,6 @@ jobs:
   <a href="mailto:smzain20042004@gmail.com"><img src="https://img.shields.io/badge/Email-EF93C4?style=for-the-badge&logo=gmail&logoColor=161B22"></a>
 </p>
 
-
 <br>
 
 <p align="center"><i>Open to AI/ML internships and research collaborations. Karachi, Pakistan.</i></p>
