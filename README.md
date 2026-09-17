@@ -140,15 +140,6 @@
   <img src="https://streak-stats.demolab.com?user=ZainDev04&hide_border=true&border_radius=12&background=0D1117&stroke=6366F1&ring=06B6D4&fire=06B6D4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82F6&sideLabels=3B82F6&dates=8B949E" alt="GitHub streak">
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZainDev04&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=06B6D4&icon_color=6366F1&text_color=3B82F6&border_radius=12">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainDev04&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=06B6D4&text_color=3B82F6&border_radius=12">
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ZainDev04&custom_title=Contribution%20activity&bg_color=0D1117&color=3B82F6&title_color=06B6D4&line=06B6D4&point=6366F1&area=true&area_color=6366F1&hide_border=true&radius=12">
-</p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=3">
 
 <h2 align="center">Contribution snake</h2>
