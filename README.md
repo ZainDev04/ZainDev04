@@ -26,6 +26,10 @@
   <img src="https://komarev.com/ghpvc/?username=ZainDev04&label=Profile+Views&style=for-the-badge&color=06B6D4">
 </p>
 
+<p align="center">
+  <a href="https://shaikh-muhammad-zain.vercel.app"><img src="https://img.shields.io/badge/Portfolio-shaikh--muhammad--zain.vercel.app-6366F1?style=for-the-badge&logo=googlechrome&logoColor=E8EAF6&labelColor=0B1120" alt="Portfolio: shaikh-muhammad-zain.vercel.app"></a>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:06B6D4&height=3">
 
 <h2 align="center">About me</h2>
@@ -45,6 +49,8 @@
       🧠 &nbsp;Built a hybrid retrieval engine over Git commit history using BM25, LSA, sentence-transformers and FAISS.
       <br><br>
       💼 &nbsp;Interned at <b>FlyRank</b> on supervised learning pipelines and at the <b>Karachi Development Authority</b> on IT infrastructure.
+      <br><br>
+      🌐 &nbsp;Portfolio: <a href="https://shaikh-muhammad-zain.vercel.app">shaikh-muhammad-zain.vercel.app</a>
       <br><br>
       📫 &nbsp;Reach me at <a href="mailto:smzain20042004@gmail.com">smzain20042004@gmail.com</a>
       <br><br>
@@ -161,6 +167,7 @@
 <br>
 
 <p align="center">
+  <a href="https://shaikh-muhammad-zain.vercel.app"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=0B1120"></a>
   <a href="https://www.linkedin.com/in/shaikh-muhammad-zain/"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=0B1120"></a>
   <a href="https://x.com/_smzxboii_"><img src="https://img.shields.io/badge/X-3B82F6?style=for-the-badge&logo=x&logoColor=0B1120"></a>
   <a href="https://www.instagram.com/__smzxboii__/"><img src="https://img.shields.io/badge/Instagram-06B6D4?style=for-the-badge&logo=instagram&logoColor=0B1120"></a>
